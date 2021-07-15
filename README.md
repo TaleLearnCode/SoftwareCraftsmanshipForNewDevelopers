@@ -22,6 +22,8 @@ As a new developer, knowing language syntax is essential; but just as important 
 - Soft Skills
 
 ## Presentations
-| Event | Location | Date | Room | Downloads |
-| Software Guild (Private) | Louisville, KY | N/A | [Slides](https://chadgreen.blob.core.windows.net/slides/SoftwareCraftsmanshipForNewDevelopers-SoftwareGuild.pdf) |
-| Tech Foundations Louisville | Louisville, KY | N/A | [Slides](https://chadgreen.blob.core.windows.net/slides/SoftwareCraftsmanshipForNewDevelopers-TechFoundationsLouisville.pdf) |
+| Event | Location | Date | Time  | Room | Downloads |
+|-------|----------|------|-------|------|-----------|
+| Nebraska.Code() 2021 | Lincoln, NE | July 15, 2021 | 14:30 CDT | Arbor 1 | [Slides](https://chadgreen.blob.core.windows.net/slides/SoftwareCraftsmanshipForNewDevelopers-Nebraska2021.pdf)
+| Software Guild (Private) | Louisville, KY | June 28, 2019 | N/A | N/A | [Slides](https://chadgreen.blob.core.windows.net/slides/SoftwareCraftsmanshipForNewDevelopers-SoftwareGuild.pdf) |
+| Tech Foundations Louisville | Louisville, KY | January 22, 2019 | N/A | N/A | [Slides](https://chadgreen.blob.core.windows.net/slides/SoftwareCraftsmanshipForNewDevelopers-TechFoundationsLouisville.pdf) |
