@@ -24,6 +24,7 @@ As a new developer, knowing language syntax is essential; but just as important 
 ## Presentations
 | Event | Location | Date | Time  | Room | Downloads |
 |-------|----------|------|-------|------|-----------|
-| Nebraska.Code() 2021 | Lincoln, NE | July 15, 2021 | 14:30 CDT | Arbor 1 | [Slides](https://chadgreen.blob.core.windows.net/slides/SoftwareCraftsmanshipForNewDevelopers-Nebraska2021.pdf)
-| Software Guild (Private) | Louisville, KY | June 28, 2019 | N/A | N/A | [Slides](https://chadgreen.blob.core.windows.net/slides/SoftwareCraftsmanshipForNewDevelopers-SoftwareGuild.pdf) |
-| Tech Foundations Louisville | Louisville, KY | January 22, 2019 | N/A | N/A | [Slides](https://chadgreen.blob.core.windows.net/slides/SoftwareCraftsmanshipForNewDevelopers-TechFoundationsLouisville.pdf) |
+| [Nashville Women Programmers](https://www.meetup.com/NashvilleWomenProgrammers/events/bzvrmsyccnbpb/) | Nashville, TN | October 11, 20201 | 18:30 EDT | Online | Available Afterwards |
+| [Nebraska.Code() 2021](https://nebraskacode.amegala.com/) | Lincoln, NE | July 15, 2021 | 14:30 CDT | Arbor 1 | [Slides](https://chadgreen.blob.core.windows.net/slides/SoftwareCraftsmanshipForNewDevelopers-Nebraska2021.pdf)
+| [Software Guild (Private)](https://www.thesoftwareguild.com/) | Louisville, KY | June 28, 2019 | N/A | N/A | [Slides](https://chadgreen.blob.core.windows.net/slides/SoftwareCraftsmanshipForNewDevelopers-SoftwareGuild.pdf) |
+| [Tech Foundations Louisville](https://www.meetup.com/Tech-Foundations-Louisville/events/256240462/) | Louisville, KY | January 22, 2019 | N/A | N/A | [Slides](https://chadgreen.blob.core.windows.net/slides/SoftwareCraftsmanshipForNewDevelopers-TechFoundationsLouisville.pdf) |
